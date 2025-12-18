@@ -1,5 +1,7 @@
 In this project, let's build a **Planets App** by applying the concepts we have learned till now.
+<br />
 
+Project url: https://myplanetsapp007.ccbp.tech/
 ### Refer to the video below:
 
 <br/>
