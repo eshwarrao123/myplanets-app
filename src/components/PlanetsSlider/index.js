@@ -1,5 +1,3 @@
-// Write your code here
-// Write your code here
 import Slider from 'react-slick'
 import Snowfall from 'react-snowfall'
 import PlanetItem from '../PlanetItem'
